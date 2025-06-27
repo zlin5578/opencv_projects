@@ -1,0 +1,5 @@
+train: C:/Users/YaoCh/Desktop/CS5330/miniproject-9 - Copy/dataset/images/train
+val: C:/Users/YaoCh/Desktop/CS5330/miniproject-9 - Copy/dataset/images/val
+
+nc: 2
+names: ['Stop Sign', 'Traffic Signal']
